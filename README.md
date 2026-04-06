@@ -1,19 +1,50 @@
-E-Commerce Superstore Sales Analysis
+# E-Commerce Sales, Profit & Operational Analysis
 
-Objective
+## Objective
+Analyze e-commerce sales, profit trends, and operational (shipping) performance to generate actionable business insights.
 
-Analyze e-commerce sales, profit trends, and shipping performance to provide actionable business insights.
-
-Dataset
-
+## Dataset
 Columns include: Row ID, Order ID, Order Date, Order Day, Order Month, Order Year, Ship Date, Shipping Days, Ship Month, Ship Year, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Subcategory, Product Name, Sales, Quantity, Total Sales, Discount, Total Revenue, Profit, Profit Status, Adjusted Profit, Profit Margin, Profit Margin %, Ship Days, Ship Leg.
 
-Tools Used
+## Tools Used
+- Excel (Data cleaning and preprocessing)
+- Python (Analysis, calculated metrics, visualizations, insights)
+- Power BI (Interactive dashboard)
 
-Excel: Data cleaning and preprocessing
+## Process
+1. Cleaned and preprocessed raw e-commerce dataset in Excel.  
+2. Created calculated fields (profit status, adjusted profit, profit margin, shipping metrics) in Python.  
+3. Performed data analysis and visualizations with chart-wise insights and recommendations.  
+4. Built an interactive Power BI dashboard with KPIs, slicers, and business-focused visuals.  
 
-Python: Analysis, calculated metrics, visualizations, insights
+## Power BI Dashboard
 
+**Heading:** E-Commerce Store Dashboard  
+
+**KPIs:**  
+- Total Sales: 11.49M  
+- Total Profit: 286.4K  
+- Profit Margin %: 12.03%  
+- Total Orders: 9,994  
+- Average Shipping Days: 3.96  
+
+**Slicers:**  
+- Product Category (Furniture, Office Supplies, Technology)  
+- Region (Central, South, West, East)  
+
+**Charts:**  
+1. Profit by Year – steady growth trend  
+2. Sales vs Profit by Month – comparative trend analysis  
+3. Order Status – 28.1% returned/lost, 79.84% profitable  
+4. Count by Ship Mode / Ship Leg – shipping performance  
+5. Profit by Discount – scatter analysis  
+6. Profit by Top Customers – key customer contribution  
+
+## Key Insights & Recommendations
+- Leverage increasing yearly profit trends for future forecasting and planning.  
+- Improve shipping efficiency to reduce returns and operational losses.  
+- Optimize discount strategies to maintain profitability.  
+- Focus on high-value customers for retention and targeted marketing.
 Power BI: Interactive dashboards
 
 Power BI Dashboard
