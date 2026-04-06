@@ -40,7 +40,7 @@ Columns include: Row ID, Order ID, Order Date, Order Day, Order Month, Order Yea
 5. Profit by Discount – scatter analysis  
 6. Profit by Top Customers – key customer contribution  
 
-#**INSIGHTS**  
+##**INSIGHTS**  
 - Sales are strong but profits remain weak or volatile, showing a revenue–profit gap.  
 - A few regions and customers dominate revenue, but profit contribution is uneven.  
 - Furniture consistently loses money, Technology is unstable, Office Supplies are steady but underutilized.  
@@ -48,7 +48,7 @@ Columns include: Row ID, Order ID, Order Date, Order Day, Order Month, Order Yea
 - Most transactions hover near break‑even, with margins skewed low.  
 - Orders and shipments fluctuate sharply, reflecting weak demand forecasting and fulfillment alignment.
 
-- **RECOMMENDATIONS**   
+- ##**RECOMMENDATIONS**   
 - Enforce margin discipline: cap discounts, reduce cost leakage, renegotiate supplier terms.  
 - Optimize portfolio: cut losses in Furniture, stabilize Technology, scale Office Supplies.  
 - Refocus customer strategy: retain high‑profit accounts, diversify beyond a few large buyers, nurture mid‑tier customers.  
