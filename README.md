@@ -1,4 +1,4 @@
-# 📊 E-Commerce Analytics Dashboard (Excel + Python + Power BI | EDA Project)
+# 📊 E-Commerce Analytics Dashboard (Excel + Python + Power BI | EDA & BI Project)
 
 ## 🚀 Overview
 
