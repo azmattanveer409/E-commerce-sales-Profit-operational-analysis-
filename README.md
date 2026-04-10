@@ -80,6 +80,12 @@ Created key business metrics:
 **E-Commerce Store Performance Dashboard**
 
 ---
+📸 Dashboard Preview
+
+(Add screenshot here)
+
+![Dashboard Screenshot](dashboard.png)
+
 
 ### 📈 Key KPIs
 
