@@ -70,12 +70,12 @@ Created key business metrics:
 * Discount vs profit relationship
 * Shipping mode performance analysis
 * Customer contribution analysis
-
+  
 ---
 
 ## 📊 Power BI Dashboard Preview
 
-This dashboard provides insights into sales performance, profitability, discount impact, and shipping efficiency.
+This dashboard provides a comprehensive view of sales performance, profitability, discount impact, and shipping efficiency across the e-commerce business.
 
 ---
 
@@ -84,43 +84,46 @@ This dashboard provides insights into sales performance, profitability, discount
 
 ---
 
-### 📊 Overall Dashboard
+## 📊 Overall Dashboard (Business Overview)
+  
+### 📈 Key KPIs
 
-📈 **Key KPIs**
-- Total Sales: **11.49M**
-- Total Profit: **286.4K**
-- Profit Margin: **12.03%**
-- Total Orders: **9,994**
-- Avg Shipping Days: **3.96**
-
-- ### 🎛️ Slicers
-
-* Product Category: Furniture, Office Supplies, Technology
-* Region: Central, South, West, East
+- Total Sales: **11.49M**  
+- Total Profit: **286.4K**  
+- Profit Margin: **12.03%**  
+- Total Orders: **9,994**  
+- Average Shipping Days: **3.96**  
 
 
-📊 Despite strong sales, low profit margin (~12%) indicates margin pressure, likely driven by excessive discounting and operational inefficiencies.
+📊 Despite strong sales volume, the relatively low profit margin (~12%) highlights margin pressure, primarily driven by high discounting and operational inefficiencies.
 
+📸 **Dashboard Screenshot**
 ![Dashboard](https://github.com/azmattanveer409/E-commerce-sales-Profit-operational-analysis-/blob/d2bfbe036920d0c8c82c655afa538c94f6e3eb3a/Dashboard.png)
+
 ---
 
-## 📊 Visualizations (Python)
+## 🎛️ Slicers
 
+- Product Category: Furniture, Office Supplies, Technology  
+- Region: Central, South, West, East  
 
-* Profit by Years (Clustered column chart)
-* Sales vs Profit by Month (Line chart)
-* Order Stutas  ( Donut chart)
-* Count of Ship Mode by Ship-Lag (Clustered bar chart)
-* Sum of Profit by Discount (Scatter chart)
-* Sales & Profit by Top-Customers (Stacked bar chart)
+---
 
+## 📊 Key Visuals
+
+- Sales vs Profit Trend (Monthly Analysis)  
+- Profit by Category and Region  
+- Discount vs Profit Relationship  
+- Shipping Mode Performance  
+- Order Status Distribution  
+- Top Customers by Profit Contribution  
 
 ---
 
 ## 🧠 Key Insights
 
 * Sales are strong, but **profitability is weak and inconsistent**
-* High discounts significantly reduce profit margins
+*  High discounting is the primary driver of low profitability, indicating inefficient pricing strategies.
 * Furniture category consistently underperforms
 * Office Supplies shows stable profitability
 * Shipping inefficiencies contribute to returns and losses
@@ -159,11 +162,11 @@ This dashboard provides insights into sales performance, profitability, discount
 
 ## 🚀 Future Improvements
 
-* Predictive sales forecasting using ML
-* Profit optimization modeling
-* Advanced customer segmentation (RFM analysis)
-* Automated dashboard refresh system
-* Deployment of interactive analytics app (Streamlit)
+- Develop predictive models for sales and profit forecasting to support demand planning  
+- Optimize pricing and discount strategies using data-driven approaches  
+- Implement customer segmentation (RFM analysis) to identify high-value customers  
+- Automate dashboard updates using Power BI Service for real-time reporting  
+- Enhance shipping efficiency analysis using advanced performance tracking metrics  
 
 ---
 
