@@ -82,9 +82,8 @@ Created key business metrics:
 ---
 📸 Dashboard Preview
 
-(Add screenshot here)
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/azmattanveer409/E-commerce-sales-Profit-operational-analysis-/blob/d2bfbe036920d0c8c82c655afa538c94f6e3eb3a/Dashboard.png)
 
 
 ### 📈 Key KPIs
