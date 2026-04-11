@@ -73,56 +73,47 @@ Created key business metrics:
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard Preview
 
-### 📌 Dashboard Title
+This dashboard provides insights into sales performance, profitability, discount impact, and shipping efficiency.
 
+---
+
+### 📌 Dashboard Title  
 **E-Commerce Store Performance Dashboard**
 
 ---
-📸 Dashboard Preview
 
+### 📊 Overall Dashboard
 
-![Dashboard Screenshot](https://github.com/azmattanveer409/E-commerce-sales-Profit-operational-analysis-/blob/d2bfbe036920d0c8c82c655afa538c94f6e3eb3a/Dashboard.png)
+📈 **Key KPIs**
+- Total Sales: **11.49M**
+- Total Profit: **286.4K**
+- Profit Margin: **12.03%**
+- Total Orders: **9,994**
+- Avg Shipping Days: **3.96**
 
-
-### 📈 Key KPIs
-
-* Total Sales: **11.49M**
-* Total Profit: **286.4K**
-* Profit Margin: **12.03%**
-* Total Orders: **9,994**
-* Average Shipping Days: **3.96**
-
----
-
-### 🎛️ Slicers
+- ### 🎛️ Slicers
 
 * Product Category: Furniture, Office Supplies, Technology
 * Region: Central, South, West, East
 
----
 
-### 📊 Visualizations
+📊 Despite strong sales, low profit margin (~12%) indicates margin pressure, likely driven by excessive discounting and operational inefficiencies.
 
-* Profit by Year (Trend Analysis)
-* Sales vs Profit by Month
-* Order Status Distribution
-* Shipping Mode Performance
-* Discount vs Profit Analysis
-* Top Customers by Profit Contribution
-
+![Dashboard](https://github.com/azmattanveer409/E-commerce-sales-Profit-operational-analysis-/blob/d2bfbe036920d0c8c82c655afa538c94f6e3eb3a/Dashboard.png)
 ---
 
 ## 📊 Visualizations (Python)
 
-* Monthly Sales & Profit Trend
-* Profit by Category and Region (Heatmap)
-* Discount vs Profit (Scatter Plot)
-* Profit Margin Distribution
-* Shipping Lag Analysis
-* Top Customers by Sales
-* Orders vs Shipments Over Time
+
+* Profit by Years (Clustered column chart)
+* Sales vs Profit by Month (Line chart)
+* Order Stutas  ( Donut chart)
+* Count of Ship Mode by Ship-Lag (Clustered bar chart)
+* Sum of Profit by Discount (Scatter chart)
+* Sales & Profit by Top-Customers (Stacked bar chart)
+
 
 ---
 
